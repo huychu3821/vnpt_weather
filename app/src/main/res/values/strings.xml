@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vnpt_weather</string>
+    <string name="setting">Sửa</string>
+    <string name="st">something</string>
+    <string name="city_manage">Quản lý thành phố</string>
+    <string name="city_name">Tokyo</string>
+    <string name="temp">30°</string>
+    <string name="weather">Hầu hết trời nắng</string>
+    <string name="xoa">Xóa</string>
+</resources>
